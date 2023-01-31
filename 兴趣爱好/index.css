@@ -1,0 +1,73 @@
+.like{
+    height: 500px;
+    display: flex;
+}
+.like div{
+    width: 400px;
+    height: 100vh;
+    margin: 10px 10px;
+    background-color: aqua;
+}
+.baskatball{
+    background-image: url('./篮球.webp');
+}
+.baskatball h2{
+    font-size: 50px;
+    color: red;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 30vh;
+}
+.baskatball p{
+    font-size: 28px;
+    color: red;
+    margin-top: 240px;
+}
+.read{
+    background-image: url('./读书.jpeg');
+    background-size: cover;
+}
+.read h2{
+    font-size: 50px;
+    color: skyblue;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 30vh;
+}
+.read p{
+    font-size: 28px;
+    color:skyblue;
+    margin-top: 240px;
+}
+.compute{
+    background-image: url('./程序.jpg');
+    background-size: cover;
+}
+.compute h2{
+    font-size: 50px;
+    color: greenyellow;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 30vh;
+}
+.compute p{
+    font-size: 28px;
+    color:greenyellow;
+    margin-top: 240px;
+}
+.animation{
+    background-image: url('./动漫.webp');
+    background-size: cover;
+}
+.animation h2{
+    font-size: 50px;
+    color:orangered;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 30vh;
+}
+.animation p{
+    font-size: 28px;
+    color:orangered;
+    margin-top: 240px;
+}
