@@ -1,0 +1,93 @@
+p{
+    text-indent: 2em;
+}
+body{
+    background-color: #ccc;
+}
+li{
+    list-style: none;
+}
+.hc li:first-child{
+    margin-left: 250px;
+    width: 300px;
+    height: 200px;
+}
+ul{
+    display: flex;
+}
+.hc img{
+    width: 100px;
+    height: 200px;
+    margin-left: 10px;
+}
+.hc ul li:first-child img{
+    width: 300px;
+    height: 200px;
+}
+.hc img:hover{
+    cursor: pointer;
+    transform: scale(3);
+    transition: all 0.4 s linear;
+}
+.hz li:first-child{
+    margin-left: 250px;
+    width: 150px;
+    height: 200px;
+}
+.hz li{
+    margin-left: 10px;
+}
+.hz img{
+    width: 150px;
+    height: 200px;
+
+}
+.hz img:hover{
+    cursor: pointer;
+    transform: scale(3);
+    transition: all 0.4 s linear;
+}
+.xg li:first-child{
+    margin-left: 250px;
+    width: 250px;
+    height: 200px;
+}
+.xg img{
+    width: 250px;
+    height: 200px;
+    margin-left: 10px;
+}
+.xg ul li:first-child img{
+    width: 250px;
+    height: 200px;
+}
+.xg img:hover{
+    cursor: pointer;
+    transform: scale(3);
+    transition: all 0.4 s linear;
+}
+.fy li:first-child{
+    margin-left: 250px;
+    width: 250px;
+    height: 200px;
+}
+.fy img{
+    width: 250px;
+    height: 200px;
+    margin-left: 10px;
+}
+.fy ul li:first-child img{
+    width: 250px;
+    height: 200px;
+}
+.fy img:hover{
+    cursor: pointer;
+    transform: scale(3);
+    transition: all 0.4 s linear;
+}
+.footer{
+    height: 200px;
+    background-image: url('./底部.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
